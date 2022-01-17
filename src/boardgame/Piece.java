@@ -14,6 +14,12 @@ public class Piece {
 	}
 
 	
-	
+	/*
+public Board(int rows, int columns) {
+	this.rows = rows;
+	this.columns = columns;
+	pieces= new Piece [rows][columns];
+}
+*/
 
 }
